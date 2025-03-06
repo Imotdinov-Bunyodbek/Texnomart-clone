@@ -1,4 +1,4 @@
-# Texnomart (Flutter)
+# Texnomart (Clone)
 
 Texnomart is a Flutter-based mobile application that replicates the functionality of the Texnomart store, a well-known electronics retailer in Uzbekistan. This app allows users to browse products, place orders, and locate store branches on the map.
 
