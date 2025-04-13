@@ -32,7 +32,10 @@ Texnomart is a Flutter-based mobile application that replicates the functionalit
   </tr>
 </table>
 
-<img src="images/video.mp4" alt="video" width="200" height="200"/>
+<video width="300" controls>
+  <source src="images/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 Try the App
 
