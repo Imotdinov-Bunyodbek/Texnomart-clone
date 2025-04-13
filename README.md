@@ -32,7 +32,7 @@ Texnomart is a Flutter-based mobile application that replicates the functionalit
   </tr>
 </table>
 
-<img src="images/gif.gif" alt="Map Screen" width="200" height="200"/>
+<img src="images/gif.gif" alt="video" width="200" height="200"/>
 
 ## 🚀 Try the App
 
