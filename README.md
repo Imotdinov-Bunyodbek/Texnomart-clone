@@ -33,6 +33,8 @@ Texnomart is a Flutter-based mobile application that replicates the functionalit
   </tr>
 </table>
 
+<img src="image/video.mp4" alt="video" width="200" height="200"/>
+
 ## 🚀 Try the App
 
 Download the APK and explore Texnomart on your mobile device.
