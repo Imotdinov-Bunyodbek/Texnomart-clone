@@ -10,7 +10,6 @@ Texnomart is a Flutter-based mobile application that replicates the functionalit
 - **Smooth UI & Performance** – Optimized for a seamless user experience.
 
 ## 🛠 Technologies Used
-
 - **Dio & Retrofit** – Efficient API communication.
 - **Rest API** – Fetch and manage data.
 - **YandexMapkit Lite** – Integrated map services.
